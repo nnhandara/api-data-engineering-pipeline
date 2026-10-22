@@ -1,0 +1,16 @@
+
+# Secrets
+.env
+.env.*
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs
+logs/*.log
+
+# Generated API data
+data/*.json
